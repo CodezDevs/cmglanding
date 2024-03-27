@@ -1,0 +1,1 @@
+local a={}local b={}RegisterNetEvent("CMG:setStatistics",function(c,d)a=c;b=d;TriggerEvent("CMGUI:setStatistics",a,b,CMG.getUserId())end)

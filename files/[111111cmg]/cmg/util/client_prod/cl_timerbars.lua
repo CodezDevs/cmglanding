@@ -1,0 +1,1 @@
+function CMG.createTimerBars()local a={timers={}}a.push=function(b,c,d,e,f)table.insert(a.timers,{b,c,d,e,f})end;a.draw=function()for g,h in ipairs(a.timers)do DrawGTATimerBar(h[1],h[2],g,h[3],h[4],h[5])end end;a.reset=function()a.timers={}end;return a end

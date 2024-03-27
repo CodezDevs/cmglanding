@@ -1,0 +1,1 @@
+function GetPackage(a)TriggerServerEvent("CMG:getDonationPackageTebex",a)end

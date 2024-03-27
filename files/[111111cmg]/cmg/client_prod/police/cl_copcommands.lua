@@ -1,0 +1,1 @@
+RegisterNetEvent("CMG:CopLicenseCheck",function()pedToCheckLicense=tvRP.getNearestPlayer(25)if pedToCheckLicense then tvRP.notify("~g~Found nearby person, checking licenses")print("nearby player found: "..tostring(pedToCheckLicense))TriggerServerEvent("CMG:GetLicenses",pedToCheckLicense)else tvRP.notify("~r~No one is nearby to check")end end)

@@ -1,0 +1,1 @@
+RegisterNetEvent("CMG:beginTrains",function()SwitchTrainTrack(0,true)SwitchTrainTrack(3,true)SetTrainTrackSpawnFrequency(0,600000)SetRandomTrains(1)print("Starting trains")end)RegisterNetEvent("CMG:disableTrains",function()SwitchTrainTrack(0,false)SwitchTrainTrack(3,false)SetTrainTrackSpawnFrequency(0,120000)print("Disabling trains")end)

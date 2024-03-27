@@ -1,0 +1,1 @@
+Citizen.CreateThread(function()if SetDiscordRichPresenceAction then SetDiscordRichPresenceAction(0,"Join CMG","fivem://connect/s1.cmg.city")end end)
