@@ -4,4 +4,4 @@ And dont keep the same merch icon as the one on there bc it says CMG on it, if u
 
 ***and with files dont try make a server with them its not the full files all it is, is just some random ones, add it in to an exsisting server***
 
-*about the above thats if the files upload keeps saying network lost*
+***Some files have uploaded some havnt***
